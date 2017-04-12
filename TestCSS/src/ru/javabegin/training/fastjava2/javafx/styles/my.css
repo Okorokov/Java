@@ -1,0 +1,15 @@
+#vBoxCSS{
+    -fx-base: #bfe7ff;
+    -fx-accent: #0096c9 ;
+    -fx-default-button: #abd8ed ;
+    -fx-focus-color: #039ed3;
+    -fx-faint-focus-color: #039ed322;
+
+    -fx-focused-mark-color : -fx-focused-text-base-color ;
+
+    -fx-font-family: verdana;
+}
+#columnFIO{
+    -fx-text-fill: darkred;
+    -fx-alignment: baseline-center;
+}
